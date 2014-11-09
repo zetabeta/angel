@@ -4,7 +4,8 @@
     <string name="app_name">FiTracker</string>
     <string name="action_settings">Settings</string>
     <string name="heart_rate">Heart Rate</string>
-    <string name="temperatur">Temperature</string>
+    <string name="temperature">Temperature</string>
+    <string name="blood_oxygen">Blood Oxygen</string>
     <string name="scan">SCAN</string>
     <string name="scanning">SCANNING &#8230;&#8230;&#8230;</string>
     <string name="disconnect">DICONNECT</string>

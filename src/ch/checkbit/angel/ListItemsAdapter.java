@@ -29,9 +29,11 @@
  * USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package com.angel.sample_app;
+package ch.checkbit.angel;
 
 import java.util.ArrayList;
+
+import com.angel.sample_app.R;
 
 import android.content.Context;
 import android.view.LayoutInflater;

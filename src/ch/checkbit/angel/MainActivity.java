@@ -28,7 +28,7 @@
  * TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
  * USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package com.angel.sample_app;
+package ch.checkbit.angel;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -46,6 +46,7 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.angel.sample_app.R;
 import com.angel.sdk.BleCharacteristic;
 import com.angel.sdk.BleDevice;
 import com.angel.sdk.BleScanner;
