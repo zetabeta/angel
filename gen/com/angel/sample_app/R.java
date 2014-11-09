@@ -11,6 +11,7 @@ public final class R {
     public static final class attr {
     }
     public static final class color {
+        public static final int box_background=0x7f050002;
         public static final int list_item_key_color=0x7f050001;
         public static final int list_item_text_color=0x7f050000;
     }
@@ -30,25 +31,31 @@ public final class R {
         public static final int smallText=0x7f060003;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int blooddrop=0x7f020000;
+        public static final int heart=0x7f020001;
+        public static final int ic_launcher=0x7f020002;
+        public static final int warm=0x7f020003;
     }
     public static final class id {
-        public static final int action_settings=0x7f090010;
-        public static final int bloodOxygenBox=0x7f09000b;
+        public static final int action_settings=0x7f090013;
+        public static final int bloodOxygenBox=0x7f09000c;
         public static final int control=0x7f090006;
         public static final int controlAction=0x7f090008;
         public static final int heartRate=0x7f090004;
         public static final int heartRateBox=0x7f09000a;
         public static final int heartRateLayout=0x7f090003;
-        public static final int item_key=0x7f09000f;
-        public static final int item_name=0x7f09000e;
-        public static final int lv=0x7f09000d;
+        public static final int imageView1=0x7f09000b;
+        public static final int imageView2=0x7f09000d;
+        public static final int imageView3=0x7f09000f;
+        public static final int item_key=0x7f090012;
+        public static final int item_name=0x7f090011;
+        public static final int lv=0x7f090010;
         public static final int sepControl=0x7f090007;
         public static final int sepControlBottom=0x7f090009;
         public static final int sepDeviceName=0x7f090002;
         public static final int sepHeartRate=0x7f090005;
         public static final int sepTitle=0x7f090000;
-        public static final int temperatureBox=0x7f09000c;
+        public static final int temperatureBox=0x7f09000e;
         public static final int title=0x7f090001;
     }
     public static final class layout {
