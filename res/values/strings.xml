@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FiTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="temperatur">Temperature</string>
+    <string name="scan">SCAN</string>
+    <string name="scanning">SCANNING &#8230;&#8230;&#8230;</string>
+    <string name="disconnect">DICONNECT</string>
+    <string name="device_name">Device Name</string>
+
+</resources>
