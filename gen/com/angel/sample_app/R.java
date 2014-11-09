@@ -33,19 +33,22 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f09000d;
+        public static final int action_settings=0x7f090010;
+        public static final int bloodOxygenBox=0x7f09000b;
         public static final int control=0x7f090006;
         public static final int controlAction=0x7f090008;
         public static final int heartRate=0x7f090004;
+        public static final int heartRateBox=0x7f09000a;
         public static final int heartRateLayout=0x7f090003;
-        public static final int item_key=0x7f09000c;
-        public static final int item_name=0x7f09000b;
-        public static final int lv=0x7f09000a;
+        public static final int item_key=0x7f09000f;
+        public static final int item_name=0x7f09000e;
+        public static final int lv=0x7f09000d;
         public static final int sepControl=0x7f090007;
         public static final int sepControlBottom=0x7f090009;
         public static final int sepDeviceName=0x7f090002;
         public static final int sepHeartRate=0x7f090005;
         public static final int sepTitle=0x7f090000;
+        public static final int temperatureBox=0x7f09000c;
         public static final int title=0x7f090001;
     }
     public static final class layout {
@@ -60,9 +63,10 @@ public final class R {
         public static final int action_settings=0x7f040011;
         public static final int app_name=0x7f040000;
         public static final int ble_not_supported=0x7f040001;
+        public static final int blood_oxygen=0x7f040014;
         public static final int connected=0x7f040006;
-        public static final int device_name=0x7f040017;
-        public static final int disconnect=0x7f040016;
+        public static final int device_name=0x7f040018;
+        public static final int disconnect=0x7f040017;
         public static final int disconnected=0x7f040007;
         public static final int error_bluetooth_not_supported=0x7f040009;
         public static final int heart_rate=0x7f040012;
@@ -76,9 +80,9 @@ public final class R {
         public static final int menu_scan=0x7f04000f;
         public static final int menu_stop=0x7f040010;
         public static final int no_data=0x7f040005;
-        public static final int scan=0x7f040014;
-        public static final int scanning=0x7f040015;
-        public static final int temperatur=0x7f040013;
+        public static final int scan=0x7f040015;
+        public static final int scanning=0x7f040016;
+        public static final int temperature=0x7f040013;
         public static final int title_devices=0x7f040008;
         public static final int unknown_characteristic=0x7f04000b;
         public static final int unknown_device=0x7f04000a;
